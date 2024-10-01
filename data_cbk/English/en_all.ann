@@ -1,0 +1,22 @@
+T1	NOUN 2 11	Marketing
+T2	VERB 12 14	is
+T3	ADV 15 21	partly
+T4	PART 22 24	to
+T5	VERB 25 30	blame
+R1	nsubj Arg1:T5 Arg2:T1	
+T6	NOUN 32 43	Advertisers
+T7	NOUN 48 57	retailers
+T8	CONJ 44 47	and
+T9	VERB 58 64	peddle
+T10	ADJ 65 69	sexy
+T11	NOUN 70 78	clothing
+T13	NOUN 83 91	children
+T14	INTJ 79 82	for
+R2	nsubj Arg1:T9 Arg2:T6	
+R3	dobj Arg1:T9 Arg2:T11	
+R4	iobj Arg1:T9 Arg2:T13	
+T12	VERB 93 101	Training
+T15	PRON 102 106	them
+T16	DET 112 114	an
+T17	ADJ 115 120	early
+T18	NOUN 121 124	age
